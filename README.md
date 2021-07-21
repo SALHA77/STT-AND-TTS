@@ -9,7 +9,7 @@ CODE FOR STT
 ![stt1](https://user-images.githubusercontent.com/85918620/126436123-ae16c0a8-c3af-4f8c-a7e3-6449b52e201d.png)
 
 
-HER THE APIKEY AMD URL FOR STT
+HER THE APIKEY AND URL FOR STT
 
 ![STT2](https://user-images.githubusercontent.com/85918620/126437871-900ac9b5-14ea-4642-87db-1adf6fccb52a.png)
 
