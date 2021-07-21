@@ -13,3 +13,8 @@ HER THE APIKEY AMD URL FOR STT
 ![STT2](https://user-images.githubusercontent.com/85918620/126437871-900ac9b5-14ea-4642-87db-1adf6fccb52a.png)
 
 AFTER RUN THE CODE THE RESULT APPEAR  FOR STT 
+
+![STT3](https://user-images.githubusercontent.com/85918620/126438646-e028d3f3-4f09-4fbb-a084-3534c806f907.png)
+
+AND HERE THE CODE FOR TTS
+
