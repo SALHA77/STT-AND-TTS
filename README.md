@@ -20,5 +20,5 @@ AND HERE THE CODE FOR TTS
 
 ![TTS1](https://user-images.githubusercontent.com/85918620/126438996-15f5920f-0078-4087-8487-e4f345e8ac1d.png)
 
-HER THE APIKEY AMD URL FOR TTS
 
+![TTS2](https://user-images.githubusercontent.com/85918620/126439752-ff650e94-c83e-49c8-a5ef-e1f2fd07efb0.png)
